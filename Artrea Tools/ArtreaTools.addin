@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Artrea Tools</Name>
+		<Assembly>ArtreaTools.dll</Assembly>
+		<AddInId>
+			8CFA0CEA-012A-4622-A844-5E83291EC0F5
+		</AddInId>
+		<FullClassName>ArtreaTools.ExternalApplication</FullClassName>
+		<VendorId>Artrea Consulting Kft. / Biró Zoltán</VendorId>
+		<VendorDescription></VendorDescription>
+	</AddIn>
+</RevitAddIns>
